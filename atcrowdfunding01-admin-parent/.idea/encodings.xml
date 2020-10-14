@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/crowd/my-menu.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/crowd/my-role.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/mvc/config/CrowdExceptionResolver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/mvc/handler/AdminHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/mvc/interceptor/LoginInterceptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/service/impl/AdminServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/Admin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/AdminExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/Auth.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/AuthExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/MenuExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/Role.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/atguigu/crowd/entity/RoleExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/resources" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/com/atguigu/crowd/exception" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/com/atguigu/crowd/exception/AccessForbiddenException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/com/atguigu/crowd/exception/LoginAcctAlreadyInUseException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/com/atguigu/crowd/exception/LoginAcctAlreadyInUseForUpdateException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/com/atguigu/crowd/exception/LoginFailedException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/util" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/util/CrowdUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/util/ResultEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/java/util/constant/CrowdConstant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding05-common-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding06-common-reverse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atcrowdfunding06-common-reverse/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
